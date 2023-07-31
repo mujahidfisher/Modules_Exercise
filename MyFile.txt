@@ -1,1 +1,5 @@
 Hi Joel!
+
+// created this file when typed "node index" in terminal
+
+// fs.appendFile
